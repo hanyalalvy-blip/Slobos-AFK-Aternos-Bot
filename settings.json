@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "AFGR-SERVER-FE-E3ALM.aternos.me ",
