@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "mojang"
+    "type": "offli"
   },
   "server": {
     "ip": "AFGR-SERVER-FE-E3ALM.aternos.me ",
     "port":29746,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
