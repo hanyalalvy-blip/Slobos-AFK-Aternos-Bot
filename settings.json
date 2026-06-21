@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WTFcraft-GOCi.aternos.me:51279 ",
+    "ip": "WTFcraft-GOCi.aternos.me ",
     "port":51279,
     "version": "1.21.11",
     "try-creative": false
